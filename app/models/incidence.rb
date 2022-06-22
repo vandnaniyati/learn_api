@@ -1,0 +1,2 @@
+class Incidence < Event
+end
